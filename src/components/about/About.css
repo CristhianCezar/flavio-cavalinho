@@ -1,0 +1,20 @@
+.aboutMe {
+    margin-top: 100vh;
+    background-color: rgb(50, 50, 50);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px;
+}
+
+.aboutMe .informationsAbout {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.aboutMe .imgAbout img {
+    width: 16rem;
+    border-radius: 8px;
+}
+

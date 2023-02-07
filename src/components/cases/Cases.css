@@ -1,0 +1,28 @@
+.cases {
+    display: flex;
+    flex-direction: column;
+    margin-top: 56px;
+}
+
+.cases .titleCases {
+    text-align: center;
+}
+
+.cases .imgCases {
+    display: flex;
+    gap: 32px;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+.cases .imgCases img {
+    width: 24rem;
+    height: 24rem;
+    border-radius: 8px;
+}
+
+.imgDescription h2 {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 50px;
+}
